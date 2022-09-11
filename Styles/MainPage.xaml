@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Styles.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="LabelCssClass" TargetType="Label">
+                <Setter Property="FontSize" Value="Small"/>
+                <Setter Property="TextColor" Value="Red"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+            </Style>
+            <Style x:Key="EntryCssClass" TargetType="Entry">
+                <Setter Property="TextColor" Value="Black"/>
+            </Style>
+            <Style x:Key="ButtonCssClass" TargetType="Button">
+                <Setter Property="TextColor" Value="Blue"/>
+                <Setter Property="BackgroundColor" Value="LightBlue"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Name" Style="{StaticResource LabelCssClass}"/>
+            <Entry Text="Enter Name" Style="{StaticResource EntryCssClass}"/>
+            <Label Text="Address" Style="{StaticResource LabelCssClass}"/>
+            <Entry Text="Enter Address" Style="{StaticResource EntryCssClass}"/>
+            <Label Text="Email" Style="{StaticResource LabelCssClass}"/>
+            <Entry Text="Enter Email" Style="{StaticResource EntryCssClass}"/>
+            <Button  Text="Save" Style="{StaticResource ButtonCssClass}"/>
+            <Button  Text="Clear" Style="{StaticResource ButtonCssClass}"/>
+            <Button  Text="Exit" Style="{StaticResource ButtonCssClass}"/>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

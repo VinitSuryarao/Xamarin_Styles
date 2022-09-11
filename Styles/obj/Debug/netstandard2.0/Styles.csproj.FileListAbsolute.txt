@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\Styles\Styles\bin\Debug\netstandard2.0\Styles.deps.json
+E:\Study\Code\Xamarin\Styles\Styles\bin\Debug\netstandard2.0\Styles.dll
+E:\Study\Code\Xamarin\Styles\Styles\bin\Debug\netstandard2.0\ref\Styles.dll
+E:\Study\Code\Xamarin\Styles\Styles\bin\Debug\netstandard2.0\Styles.pdb
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\Styles.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\Styles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\Styles.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\Styles.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\Styles.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\Styles.dll
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\ref\Styles.dll
+E:\Study\Code\Xamarin\Styles\Styles\obj\Debug\netstandard2.0\Styles.pdb
